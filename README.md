@@ -17,4 +17,4 @@ This repository hosts the frontend code for masjids.io
 - Signup page
 - Account settings page
 - Home page (after login) showing info
-- Drag and drop website builder
+- Drag and drop website builder 
